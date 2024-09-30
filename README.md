@@ -4,8 +4,13 @@
 
  ## TOC
  - Overview
+ - Podcast
+ - Architecture
+ - Prototype code from OpenAI's O1
 
 **Overview:**
+
+Why wants to colab and build the following?
 
 The goal is to create a smart home system that learns and adapts to user behaviors without relying on extensive simulations or slow real-time reinforcement learning (RL). The system leverages data from Home Assistant, user actions, and the capabilities of Large Language Models (LLMs) to interpret context and suggest actions. The architecture focuses on capturing user interactions, interpreting them to understand user intent, and predicting future actions based on similar contexts.
 
