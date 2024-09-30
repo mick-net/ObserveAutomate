@@ -2,9 +2,16 @@
 
 **Improved Software Architecture for AI-Enhanced Home Assistant**
 
+ ## TOC
+ - Overview
+
 **Overview:**
 
 The goal is to create a smart home system that learns and adapts to user behaviors without relying on extensive simulations or slow real-time reinforcement learning (RL). The system leverages data from Home Assistant, user actions, and the capabilities of Large Language Models (LLMs) to interpret context and suggest actions. The architecture focuses on capturing user interactions, interpreting them to understand user intent, and predicting future actions based on similar contexts.
+
+See the podcast for a great explantion. Generated using AI with Google Notebook LM
+[![Watch the podcast video](https://img.youtube.com/vi/-BZmE0wtdTM/0.jpg)](https://youtu.be/-BZmE0wtdTM)
+
 
 ---
 
